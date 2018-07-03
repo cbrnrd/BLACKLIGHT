@@ -13,3 +13,8 @@ You can download the OVA file in the releases section.
 
 ### Installation
 After downloading the OVA file you can open it in either VirtualBox or VMWare.
+
+
+<p align="center">
+  <img height="100" width="300" src="https://i.imgur.com/obHmDnX.png">
+</p>
